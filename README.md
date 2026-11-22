@@ -21,7 +21,7 @@
 
 ## About me
 
-I handle all CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) in the Chattanooga, Tennessee area, and I run the lasers too — including machines with full automation.
+I do CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) in the Chattanooga, Tennessee area, and I run the lasers too — including machines with full automation.
 
 I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oiled) steel, usually from **10 gauge to 16 gauge**. The Amada lasers I run include **3015** and **4020** beds, **4kW**, **6kW** and **15kW**, and **F1**.
 
