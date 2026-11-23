@@ -96,6 +96,14 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
       <br><sub><em>Slider door latch cut from 12 gauge steel on the Amada 4020 laser.</em></sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="4" align="center" valign="top">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-fo-4020nt-full-machine.jpg" alt="Full view of the red Amada FO-4020NT laser cutter in the shop, with its operator console on the left" width="45%">
+      </a>
+      <br><sub><em>Amada FO-4020NT laser cutter in the shop.</em></sub>
+    </td>
+  </tr>
 </table>
 
 <p align="center">▶️ <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase">See the Amada 3015 6K laser cutting clip and more photos in the Project Showcase</a></p>
