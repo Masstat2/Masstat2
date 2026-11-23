@@ -67,6 +67,39 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
   </tr>
 </table>
 
+**🆕 Newest work**
+
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-4020-laser-head.jpg" alt="Red Amada LASMAC cutting head on the 4020 laser, cutting a sheet of metal with sparks under the nozzle" width="85%">
+      </a>
+      <br><sub><em>Amada 4020 LASMAC cutting head at work.</em></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-4020-operator-console.jpg" alt="Amada operator console on the 4020 laser, with its touch screen, control buttons, and keyboard" width="80%">
+      </a>
+      <br><sub><em>Operator console on the Amada 4020 laser.</em></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-4020-output-side.jpg" alt="Output side of the Amada 4020 laser, with a fresh sheet of metal on the shuttle table" width="86%">
+      </a>
+      <br><sub><em>Output side of the Amada 4020 laser, with a fresh sheet on the shuttle table.</em></sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/slider-door-latch-12ga.jpg" alt="Laser-cut slider door latch part made from 12 gauge steel" width="100%">
+      </a>
+      <br><sub><em>Slider door latch cut from 12 gauge steel on the Amada 4020 laser.</em></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">▶️ <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase">See the Amada 3015 6K laser cutting clip and more photos in the Project Showcase</a></p>
+
 - 📘 [Laser Cutting Quick Reference](https://github.com/Masstat2/cnc-laser-programmer-portfolio/blob/main/tips/README.md) — a gauge-to-thickness chart and general programming and nesting tips
 - 📄 [Resume (PDF)](https://github.com/Masstat2/cnc-laser-programmer-portfolio/blob/main/resume/Jason_Vines_Resume.pdf) — a public copy of my resume
 
