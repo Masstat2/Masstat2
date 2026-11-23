@@ -48,6 +48,25 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
 
 📌 **[cnc-laser-programmer-portfolio](https://github.com/Masstat2/cnc-laser-programmer-portfolio)** — my main GitHub page, with work history, skills, and the equipment I run.
 
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#equipment-i-run" title="See the equipment I run on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/assets/machine-3015-4k.jpg" alt="Amada 3015 4K laser with automation (photo I took at work)" width="100%">
+      </a>
+      <br>
+      <em>Amada 3015 4K laser with automation (photo I took at work)</em>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#equipment-i-run" title="See the equipment I run on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/assets/tower-as-lul.jpg" alt="Amada AS-LUL tower automation (photo I took at work)" width="100%">
+      </a>
+      <br>
+      <em>Amada AS-LUL tower automation (photo I took at work)</em>
+    </td>
+  </tr>
+</table>
+
 - 📘 [Laser Cutting Quick Reference](https://github.com/Masstat2/cnc-laser-programmer-portfolio/blob/main/tips/README.md) — a gauge-to-thickness chart and general programming and nesting tips
 - 📄 [Resume (PDF)](https://github.com/Masstat2/cnc-laser-programmer-portfolio/blob/main/resume/Jason_Vines_Resume.pdf) — a public copy of my resume
 
