@@ -97,11 +97,17 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
     </td>
   </tr>
   <tr>
-    <td colspan="4" align="center" valign="top">
+    <td colspan="2" width="50%" valign="top" align="center">
       <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
-        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-fo-4020nt-full-machine.jpg" alt="Full view of the red Amada FO-4020NT laser cutter in the shop, with its operator console on the left" width="45%">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-fo-4020nt-full-machine.jpg" alt="Full view of the red Amada FO-4020NT laser cutter in the shop, with its operator console on the left" width="100%">
       </a>
       <br><sub><em>Amada FO-4020NT laser cutter in the shop.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-lcg-3015aj-6kw-full-machine.jpg" alt="Full view of the gray Amada LCG 3015AJ 6kW laser cutter in the shop, with its operator console in front" width="100%">
+      </a>
+      <br><sub><em>Amada LCG 3015AJ 6kW laser cutter.</em></sub>
     </td>
   </tr>
 </table>
