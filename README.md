@@ -64,6 +64,7 @@ I cut **stainless steel**, **aluminum**, **HRPO** (hot rolled pickled and oiled)
   <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/machines/"><img alt="Machines I Run" title="Machines I Run on my website" src="https://img.shields.io/badge/Machines_I_Run-e8edf2?style=for-the-badge&labelColor=1c1f24"></a>
   <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/resume/"><img alt="Resume" title="My resume on my website" src="https://img.shields.io/badge/Resume-d2b48c?style=for-the-badge&labelColor=1c1f24"></a>
   <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/how-it-works/"><img alt="How a laser job runs" title="How a laser job runs, on my website" src="https://img.shields.io/badge/How_a_laser_job_runs-e3983a?style=for-the-badge&labelColor=1c1f24"></a>
+  <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/how-it-works/#how-a-laser-cutter-works"><img alt="How a laser cutter works" title="How a laser cutter works, on my website" src="https://img.shields.io/badge/How_a_laser_cutter_works-ff8a00?style=for-the-badge&labelColor=1c1f24"></a>
 </p>
 
 <table>
