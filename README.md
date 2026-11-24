@@ -124,6 +124,14 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
       <br><sub><em>14 gauge galvanized plate cut on the laser, with the Amada AMS 3015 ROS unloader in the background.</em></sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="4" align="center" valign="top">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-as-lul-3015-table-clearing.jpg" alt="Amada AS-LUL 3015 load/unload tower in the shop, waiting for the table to be cleared" width="28%">
+      </a>
+      <br><sub><em>Amada AS-LUL 3015 load/unload tower waiting for table clearing.</em></sub>
+    </td>
+  </tr>
 </table>
 
 <p align="center">▶️ <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase">See the Amada 3015 6K laser cutting clip and more photos in the Project Showcase</a></p>
