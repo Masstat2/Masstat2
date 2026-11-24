@@ -21,6 +21,7 @@
 
 <p align="center">
   <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/"><img alt="Visit my portfolio website" title="Visit my portfolio website" src="https://img.shields.io/badge/Visit_my_portfolio_website-E60012?style=for-the-badge&labelColor=1c1f24"></a>
+  <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/resume/Jason_Vines_Resume.pdf"><img alt="Download Resume" title="Download Resume" src="https://img.shields.io/badge/Download_Resume-ff8a00?style=for-the-badge&labelColor=1c1f24"></a>
 </p>
 <p align="center">
   <a href="mailto:masstat.jv@gmail.com"><img alt="Email masstat.jv@gmail.com" title="Email masstat.jv@gmail.com" src="https://img.shields.io/badge/Email-masstat.jv%40gmail.com-8a9ba8?style=for-the-badge&labelColor=1c1f24"></a>
