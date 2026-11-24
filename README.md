@@ -172,9 +172,9 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
     </td>
     <td colspan="2" width="50%" valign="top" align="center">
       <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
-        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an F1 15000 badge on its side panel" width="56%">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="56%">
       </a>
-      <br><sub><em>Amada ENSIS 3015 AJ laser cutting machine, with an F1 15000 badge.</em></sub>
+      <br><sub><em>Amada ENSIS 3015 AJ laser cutting machine, with an FL 15000 badge.</em></sub>
     </td>
   </tr>
 </table>
