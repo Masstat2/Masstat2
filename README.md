@@ -9,7 +9,7 @@
 <p align="center"><strong>at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a></strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO+%C2%B7+Galvanized;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=Stainless+%C2%B7+Aluminum+%C2%B7+HRPO+%C2%B7+Galvanized;Amada+3015+%C2%B7+FO+4020NT+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
 </p>
 
 <p align="center">
@@ -218,6 +218,62 @@ I cut **stainless steel**, **aluminum**, **HRPO** (hot rolled pickled and oiled)
         <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/fo-4020nt-ros-table.jpg" alt="ROS table on the Amada FO 4020NT, with a fresh metal sheet resting on the slats" width="100%">
       </a>
       <br><sub><em>ROS table on the Amada FO 4020NT, with a fresh sheet on the slats.</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/ams-4020-cl.jpg" alt="Amada AMS 4020 CL automation with a fresh sheet on the load table." width="36%">
+      </a>
+      <br><sub><em>Amada AMS 4020 CL automation with a fresh sheet on the load table.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/ams-4020-cl-ros-table.jpg" alt="Amada AMS 4020 CL automation with its ROS table." width="58%">
+      </a>
+      <br><sub><em>Amada AMS 4020 CL automation with its ROS table.</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/liberty-systems-nitrogen-generator.jpg" alt="Tanks and filters for the Liberty Systems nitrogen generator." width="52%">
+      </a>
+      <br><sub><em>Tanks and filters for the Liberty Systems nitrogen generator.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/liberty-systems-nitrogen-generator-unit.jpg" alt="Liberty Systems nitrogen generator in the shop." width="38%">
+      </a>
+      <br><sub><em>Liberty Systems nitrogen generator in the shop.</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-esd-unit.jpg" alt="Amada ESD (Energy Saving Device) unit in the shop." width="46%">
+      </a>
+      <br><sub><em>Amada ESD (Energy Saving Device) unit in the shop.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/lc-3015-f1-nt.jpg" alt="Amada LC 3015 F1 NT laser cutter with its load/unload tower." width="46%">
+      </a>
+      <br><sub><em>Amada LC 3015 F1 NT laser cutter with its load/unload tower.</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/camfil-dust-collector-lcg-3015-aj.jpg" alt="Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser." width="40%">
+      </a>
+      <br><sub><em>Camfil dust collector that pulls smoke and dust out of the Amada LCG 3015 AJ 6kW laser.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/nozzle-change-tools.jpg" alt="Nozzle change tools for the Amada lasers." width="37%">
+      </a>
+      <br><sub><em>Nozzle change tools for the Amada lasers.</em></sub>
     </td>
   </tr>
 </table>
