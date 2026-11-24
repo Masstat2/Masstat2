@@ -9,14 +9,15 @@
 <p align="center"><strong>at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a></strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO+%C2%B7+Galvanized;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
 </p>
 
 <p align="center">
   <img alt="CNC Laser Programming" title="CNC laser programming" src="https://img.shields.io/badge/CNC-Laser_Programming-ff8a00?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Amada Lasers" title="Amada 3015, 4020 and F1" src="https://img.shields.io/badge/Amada-3015_%7C_4020_%7C_F1-e8edf2?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Materials" title="Stainless steel, aluminum, and HRPO" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO-d2b48c?style=for-the-badge&labelColor=1c1f24">
-  <img alt="Thickness" title="Usually 10 gauge to 16 gauge" src="https://img.shields.io/badge/Thickness-10_to_16_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Amada Lasers" title="Amada 3015, FO 4020NT and F1" src="https://img.shields.io/badge/Amada-3015_%7C_FO_4020NT_%7C_F1-e8edf2?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Materials" title="Stainless steel, aluminum, HRPO, and galvanized steel" src="https://img.shields.io/badge/Materials-Stainless_%7C_Aluminum_%7C_HRPO_%7C_Galvanized-d2b48c?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Thickness" title="Usually 22 gauge sheet up to 10 gauge" src="https://img.shields.io/badge/Thickness-10%E2%80%9322_gauge-c5d0d8?style=for-the-badge&labelColor=1c1f24">
+  <img alt="Plate" title="Plate from 1/8 inch to 1 1/4 inch" src="https://img.shields.io/badge/Plate-1%2F8_in_%E2%80%93_1_1%2F4_in-c5d0d8?style=for-the-badge&labelColor=1c1f24">
 </p>
 
 <p align="center">
@@ -45,7 +46,7 @@
 
 I do CNC laser programming at [Metalworking Solutions](https://www.metalworkingsolutions.com/) in the Chattanooga, Tennessee area, and I run the lasers too — including machines with full automation.
 
-I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oiled) steel, usually from **10 gauge to 16 gauge**. The Amada lasers I run include **3015** and **4020** beds, **4kW**, **6kW** and **15kW**, and **F1**.
+I cut **stainless steel**, **aluminum**, **HRPO** (hot rolled pickled and oiled) steel, and **galvanized** steel, usually from **22 gauge sheet up to 10 gauge**, and plate from **1/8 inch to 1 1/4 inch**. The Amada lasers I run include **3015** and **4020** beds, **4kW**, **6kW** and **15kW**, and **F1**.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/assets/divider-kerf.svg" alt="" width="100%">
@@ -69,10 +70,10 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#equipment-i-run" title="See the equipment I run on my portfolio">
-        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/assets/machine-3015-4k.jpg" alt="Amada 3015 4kW laser with automation (photo I took at work)" width="100%">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/assets/machine-3015-4k.jpg" alt="Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)" width="100%">
       </a>
       <br>
-      <em>Amada 3015 4kW laser with automation (photo I took at work)</em>
+      <em>Amada FOL 3015 AJ 4kW laser with automation (photo I took at work)</em>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#equipment-i-run" title="See the equipment I run on my portfolio">
@@ -175,6 +176,48 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
         <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/ensis-3015-aj.jpg" alt="Gray Amada ENSIS 3015 AJ laser cutting machine in the shop, with an FL 15000 badge on its side panel" width="56%">
       </a>
       <br><sub><em>Amada ENSIS 3015 AJ laser cutting machine, with an FL 15000 badge.</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/fol-3015-aj-4kw.jpg" alt="Amada FOL 3015 AJ 4kW laser cutter in the shop, with its red automation tower behind it" width="50%">
+      </a>
+      <br><sub><em>Amada FOL 3015 AJ 4kW laser cutter with its automation tower.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/as-lul-3015-controller.jpg" alt="Operator control panel on the Amada AS LUL 3015 load/unload tower, with its screen, keypad and buttons" width="58%">
+      </a>
+      <br><sub><em>Operator control panel on the Amada AS LUL 3015 load/unload tower.</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/x-direction-conveyor.jpg" alt="Amada X-direction conveyor dropping scrap and small parts into a bin beside the machine" width="40%">
+      </a>
+      <br><sub><em>Amada X-direction conveyor, which carries scrap and small parts out of the machine.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/as-lul-3015-console.jpg" alt="Control terminal for the Amada AS LUL 3015 load/unload tower, with its screen and keyboard" width="39%">
+      </a>
+      <br><sub><em>Control terminal for the Amada AS LUL 3015 load/unload tower.</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/fo-4020nt-nozzle.jpg" alt="Close-up of a cutting nozzle for the Amada FO 4020NT laser, sitting on a steel workbench" width="52%">
+      </a>
+      <br><sub><em>Cutting nozzle for the Amada FO 4020NT laser.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/fo-4020nt-ros-table.jpg" alt="ROS table on the Amada FO 4020NT, with a fresh metal sheet resting on the slats" width="100%">
+      </a>
+      <br><sub><em>ROS table on the Amada FO 4020NT, with a fresh sheet on the slats.</em></sub>
     </td>
   </tr>
 </table>
