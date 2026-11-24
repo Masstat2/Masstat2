@@ -110,6 +110,20 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
       <br><sub><em>Amada LCG 3015AJ 6kW laser cutter.</em></sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/galvanized-strips-16ga.jpg" alt="Strips of 16 gauge galvanized sheet metal cut on the laser" width="45%">
+      </a>
+      <br><sub><em>16 gauge galvanized strips cut on the laser.</em></sub>
+    </td>
+    <td colspan="2" width="50%" valign="top" align="center">
+      <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/galvanized-plate-14ga.jpg" alt="14 gauge galvanized plate cut on the laser, with an Amada unloader in the background" width="58%">
+      </a>
+      <br><sub><em>14 gauge galvanized plate cut on the laser, with the Amada AMS 3015 ROS unloader in the background.</em></sub>
+    </td>
+  </tr>
 </table>
 
 <p align="center">▶️ <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase">See the Amada 3015 6K laser cutting clip and more photos in the Project Showcase</a></p>
