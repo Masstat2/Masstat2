@@ -58,6 +58,12 @@ I cut **stainless steel**, **aluminum**, and **HRPO** (hot rolled pickled and oi
 
 📌 **[GitHub repo](https://github.com/Masstat2/cnc-laser-programmer-portfolio)** — the source for that site.
 
+<p align="center">
+  <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/gallery/"><img alt="Photo Gallery" title="Photo Gallery on my website" src="https://img.shields.io/badge/Photo_Gallery-ff8a00?style=for-the-badge&labelColor=1c1f24"></a>
+  <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/machines/"><img alt="Machines I Run" title="Machines I Run on my website" src="https://img.shields.io/badge/Machines_I_Run-e8edf2?style=for-the-badge&labelColor=1c1f24"></a>
+  <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/resume/"><img alt="Resume" title="My resume on my website" src="https://img.shields.io/badge/Resume-d2b48c?style=for-the-badge&labelColor=1c1f24"></a>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
