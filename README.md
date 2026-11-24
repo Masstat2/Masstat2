@@ -3,7 +3,10 @@
   <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/assets/banner-blueprint.svg" alt="Jason Vines, CNC Laser Programmer &amp; Operator. Decorative shop-blueprint artwork — original decoration only, not a production part, not a photo of parts I made, and not a photo from Amada." width="100%">
 </p>
 
-<p align="center"><strong>⚙️ CNC Laser Programmer &amp; Operator at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a></strong></p>
+<p align="center">
+  <img alt="CNC Laser Programmer &amp; Operator" title="CNC Laser Programmer &amp; Operator" src="https://img.shields.io/badge/CNC_Laser-Programmer_%26_Operator-ff8a00?style=for-the-badge&labelColor=1c1f24">
+</p>
+<p align="center"><strong>at <a href="https://www.metalworkingsolutions.com/">Metalworking Solutions</a></strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=CNC+Laser+Programmer+%26+Operator;Stainless+%C2%B7+Aluminum+%C2%B7+HRPO;Amada+3015+%C2%B7+4020+%C2%B7+F1;Fairview%2C+Georgia" alt="CNC Laser Programmer &amp; Operator at Metalworking Solutions">
@@ -17,7 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/"><img alt="Portfolio website" title="Open my portfolio website" src="https://img.shields.io/badge/Website-masstat2.github.io-ff8a00?style=for-the-badge&labelColor=1c1f24"></a>
+  <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/"><img alt="Visit my portfolio website" title="Visit my portfolio website" src="https://img.shields.io/badge/Visit_my_portfolio_website-E60012?style=for-the-badge&labelColor=1c1f24"></a>
+</p>
+<p align="center">
   <a href="mailto:masstat.jv@gmail.com"><img alt="Email masstat.jv@gmail.com" title="Email masstat.jv@gmail.com" src="https://img.shields.io/badge/Email-masstat.jv%40gmail.com-8a9ba8?style=for-the-badge&labelColor=1c1f24"></a>
 </p>
 
