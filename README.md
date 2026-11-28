@@ -90,6 +90,14 @@ I cut **stainless steel**, **aluminum**, **HRPO** (hot rolled pickled and oiled)
 
 <table>
   <tr>
+    <td colspan="4" width="100%" valign="top" align="center">
+      <a href="https://masstat2.github.io/cnc-laser-programmer-portfolio/projects/christmas-ornament/" title="See the Christmas Ornament with Company Logo write-up on my portfolio">
+        <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/into-the-storm-ornament.jpg" alt="Laser-cut stainless Christmas ornament with a bison and the words INTO THE STORM" width="28%">
+      </a>
+      <br><sub><em>Christmas Ornament with Company Logo</em></sub>
+    </td>
+  </tr>
+  <tr>
     <td width="25%" valign="top" align="center">
       <a href="https://github.com/Masstat2/cnc-laser-programmer-portfolio#project-showcase" title="See more in the Project Showcase on my portfolio">
         <img src="https://raw.githubusercontent.com/Masstat2/cnc-laser-programmer-portfolio/main/projects/images/amada-4020-laser-head.jpg" alt="Red Amada LASMAC cutting head on the FO 4020NT, cutting a sheet of metal with sparks under the nozzle" width="85%">
